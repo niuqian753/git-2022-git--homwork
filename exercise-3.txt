@@ -5,3 +5,9 @@ i do not lik git
 i like git 
 i do like git
 i do not lik git 
+
+
+ Git 
+ Head
+ master
+commit hash
