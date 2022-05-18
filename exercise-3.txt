@@ -2,12 +2,10 @@ i like git
 i do like git
 i do not lik git 
 
-i like git 
-i do like git
-i do not lik git 
+
+kjhfkshdkghkjgsYTBVkgiu
 
 
- Git 
- Head
- master
-commit hash
+stupid
+Git is a free and open source distributed version control system designed to handle
+everything from small to very large projects with speed and efficiency
